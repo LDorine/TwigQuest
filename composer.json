@@ -1,0 +1,13 @@
+{
+    "name": "ldorine/twig-project",
+    "description": "Quete twig",
+    "require": {
+        "twig/twig": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "LDorine",
+            "email": "dodosav.fr@gmail.com"
+        }
+    ]
+}
